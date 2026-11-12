@@ -1,0 +1,14 @@
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+sqlalchemy==2.0.23
+python-multipart==0.0.6
+pydantic==2.5.2
+pydantic-settings==2.1.0
+PyMuPDF==1.23.7
+Pillow==10.1.0
+pytesseract==0.3.13
+python-dotenv==1.0.0
+pytest==7.4.3
+pytest-asyncio==0.21.1
+httpx==0.25.2
+aiofiles==23.2.1
